@@ -1,4 +1,4 @@
-# Hi, I'm Bhoomika
+# Hello, I'm Bhoomika!
 
 I’m a data scientist and applied ML researcher currently pursuing my Master’s in Information Management at UIUC (Graduation: May 2026).
 
