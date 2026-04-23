@@ -6,22 +6,17 @@ My work sits at the intersection of machine learning, NLP, and real-world decisi
 
 Right now, I’m especially interested in:
 - Applied machine learning
+- Financial analytics
 - NLP and LLMs
 - Healthcare AI
-- Financial analytics
 - Interpretable and reliable AI systems
 
-## What I’m working on
-- Clinical NLP pipelines for extracting structured insights from trial data
-- LLM-based feature engineering and prompt refinement workflows
-- Predictive modeling for business and financial use cases
-- End-to-end ML workflows with Python, PyTorch, Hugging Face, and SQL
-
 ## Tech I use
-**Languages:** Python, SQL, R, C++  
-**ML / AI:** PyTorch, scikit-learn, Hugging Face, LoRA, NLP, LLM fine-tuning  
-**Data:** Pandas, NumPy, PySpark, SAS, Tableau, Power BI  
-**Cloud / Tools:** AWS, BigQuery, Snowflake, Docker, Git
+**Languages:** Python, SQL, SAS, R, C++  
+**ML / AI:** PyTorch, scikit-learn, Hugging Face, LoRA, PEFT, NLP, LLM fine-tuning, Transformers, RAG  
+**Data:** Pandas, NumPy, PySpark, Tableau, Power BI 
+**Stats** Regression, Decision Trees, Random Forest, XGBoost, Time Series Analysis, Forecasting, Hypothesis Testing
+**Cloud / Tools:** Amazon Web Services, Git
 
 ## A few things about me
 - I like building models, but I care just as much about whether they are useful and understandable.
