@@ -14,9 +14,9 @@ Right now, I’m especially interested in:
 ## Tech I use
 **Languages:** Python, SQL, SAS, R, C++  
 **ML / AI:** PyTorch, scikit-learn, Hugging Face, LoRA, PEFT, NLP, LLM fine-tuning, Transformers, RAG  
-**Data:** Pandas, NumPy, PySpark, Tableau, Power BI 
+**Libraries & Tools:** Pandas, NumPy, PySpark, Tableau, Power BI 
 **Stats:** Regression, Decision Trees, Random Forest, XGBoost, Time Series Analysis, Forecasting, Hypothesis Testing
-**Cloud / Tools:** Amazon Web Services, Git
+**Cloud:** Amazon Web Services, Git
 
 ## A few things about me
 - I like building models, but I care just as much about whether they are useful and understandable.
