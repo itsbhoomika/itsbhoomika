@@ -1,10 +1,6 @@
 <h1 align="center">BHOOMIKA RAVISHANKAR</h1>
 
 <p align="center">
-	<img width="180" src="data/images/profile.jpg">
-</p>
-
-<p align="center">
 	<b>Data / Product Analyst · Data Scientist</b><br>
 	Experimentation & causal inference · NPS / customer analytics · LLMs & applied ML · BI (Tableau, Power BI, SQL)
 </p>
