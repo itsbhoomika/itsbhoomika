@@ -21,7 +21,7 @@ Outside of work, I sing, paint, dance, and love traveling and exploring new cuis
 
 ## 📚 Table of Contents
 - [Research Experience](#-research-experience)
-- [Projects](#️-projects)
+- [Projects](#-projects)
 - [Professional Experience](#-professional-experience)
 - [Research Reports & Writing](#-research-reports--writing)
 - [Contact](#-contact)
