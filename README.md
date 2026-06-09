@@ -9,8 +9,6 @@ Hi! I'm a data scientist and analyst who turns messy data into decisions leaders
 
 I'm completing my **MS in Information Management at the University of Illinois Urbana-Champaign** (4.0 GPA, Phi Kappa Phi). My interests sit at the intersection of **causal inference, customer/product analytics, and large language models** — from modeling survey drivers to building LLM pipelines that turn unstructured text into predictive features. I care as much about whether a model is *useful and understandable* as whether it's accurate.
 
-Outside of work, I sing, paint, dance, and love traveling and exploring new cuisines.
-
 ---
 [📄 RESUME](data/resume/Bhoomika_Ravishankar_Resume.pdf)
 ---
