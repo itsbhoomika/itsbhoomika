@@ -1,0 +1,6 @@
+Django==4.2.11
+djangorestframework==3.14.0
+psycopg2-binary==2.9.9
+boto3==1.28.85
+pandas==2.1.4
+python-dotenv==1.0.0
