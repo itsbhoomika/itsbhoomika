@@ -34,6 +34,10 @@ Research at the **UIUC Statistics Department** on whether LLMs can automatically
 ---
 ## 🛠️ Projects
 
+### [Real-Time Data Quality & Monitoring Pipeline](data/Projects/Real-Time-Data-Quality-Monitoring/README.md)
+
+Real-time data engineering pipeline using **Apache Kafka, Snowflake, dbt, and Streamlit** to ingest application events, validate schemas, and monitor ingestion-to-warehouse latency. Implemented **dbt tests**, anomaly detection rules, and monitoring dashboards to flag **schema drift, data quality failures, and pipeline delays** in real time.
+
 ### [AI-Driven M&A Prediction](data/Projects/AI-MA-Prediction/README.md)
 
 Predictive analytics system combining **14 structured financial ratios** with **298K+ unstructured market-news headlines** (TF-IDF, Word2Vec, FinBERT sentiment) and an **XGBoost** classifier — reaching **~89–93% accuracy** and **2.4× F1**, demonstrating an investment-banking-style decision use case.
