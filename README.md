@@ -7,7 +7,7 @@
 
 Hi! I'm a data & AI professional who turns messy data into decisions leadership actually acts on. I build NPS driver models, causally validated insights, A/B-test-ready experimentation, and BI dashboards that move product and operational outcomes — backed by a strong statistical foundation and production data experience at Synchrony Financial.
 
-I'm completing my **MS in Information Management at the University of Illinois Urbana-Champaign** (4.0 GPA, Phi Kappa Phi). My interests sit at the intersection of **causal inference, customer/product analytics, and large language models**, from modeling survey drivers to building LLM pipelines that turn unstructured text into predictive features. I care as much about whether a model is *useful and understandable* as whether it's accurate.
+I'm completing my **MS in Information Management at the University of Illinois Urbana-Champaign** (4.0 GPA, Phi Kappa Phi, May 2026). I care as much about whether a system is *useful and understandable* as whether it's accurate.
 
 ---
 [📄 RESUME](data/resume/Bhoomika_Ravishankar_Resume.pdf)
