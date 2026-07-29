@@ -1,11 +1,9 @@
 <h1 align="center">BHOOMIKA RAVISHANKAR</h1>
-
 <p align="center">
-2+ years of experience building Data, AI, and Software Engineering solutions
+2+ years of experience · Data Engineering · AI/ML · Software Engineering · Python · SQL · Cloud & Distributed Systems
 </p>
 
-I'm an engineer with 2+ years of professional experience designing and building scalable data pipelines, backend applications, and AI-powered systems. I work across software engineering, data engineering, and machine learning, leveraging Python, SQL, distributed computing, cloud platforms, and large language models to build reliable, production-ready solutions.
-
+Hi! I'm an engineer with 2+ years of experience building scalable data pipelines, machine learning solutions, and intelligent applications. My work spans data engineering, backend software development, and generative AI, with experience in Python, SQL, Spark, cloud platforms, and LLM-powered systems. I enjoy solving complex engineering problems by building reliable, production-ready software that turns data into impactful products.
 ---
 [📄 RESUME](data/resume/Bhoomika_Ravishankar_Resume.pdf)
 ---
