@@ -1,12 +1,10 @@
 <h1 align="center">BHOOMIKA RAVISHANKAR</h1>
 
 <p align="center">
-	Experimentation & causal inference · NPS / customer analytics · LLMs & applied ML · BI (Tableau, Power BI, SQL)
+2+ years of experience building Data, AI, and Software Engineering solutions
 </p>
 
-Hi! I'm a data & AI professional who turns messy data into decisions leadership actually acts on. I build NPS driver models, causally validated insights, A/B-test-ready experimentation, and BI dashboards that move product and operational outcomes — backed by a strong statistical foundation and production data experience at Synchrony Financial.
-
-I'm completing my **MS in Information Management at the University of Illinois Urbana-Champaign** (4.0 GPA, Phi Kappa Phi, May 2026). I care as much about whether a system is *useful and understandable* as whether it's accurate.
+I'm an engineer with 2+ years of professional experience designing and building scalable data pipelines, backend applications, and AI-powered systems. I work across software engineering, data engineering, and machine learning, leveraging Python, SQL, distributed computing, cloud platforms, and large language models to build reliable, production-ready solutions.
 
 ---
 [📄 RESUME](data/resume/Bhoomika_Ravishankar_Resume.pdf)
