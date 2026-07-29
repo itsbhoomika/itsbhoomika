@@ -55,7 +55,7 @@ A normalized **MySQL** database for personal finance: accounts, transactions, bu
 
 ### Business Intelligence Group (BIG) — *Data Consultant* (Jan 2025 – May 2025)
 
-### University of Illinois Urbana-Champaign — *Research Assistant, AI Engineer* (Jan 2025 – May 2026)
+### University of Illinois Urbana-Champaign — *Research Assistant, AI Engineer* (Jan 2025 – Present)
 
 ### Technology Entrepreneur Center — *Peer Entrepreneur Advisor* (Jan 2025 – May 2025)
 
