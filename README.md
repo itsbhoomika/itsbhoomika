@@ -5,7 +5,6 @@
 
 Hi! I'm an engineer with 2+ years of experience building scalable data pipelines, machine learning solutions, and intelligent applications. My work spans data engineering, backend software development, and generative AI, with experience in Python, SQL, Spark, cloud platforms, and LLM-powered systems. I enjoy solving complex engineering problems by building reliable, production-ready software that turns data into impactful products.
 ---
-[📄 RESUME](data/resume/Bhoomika_Ravishankar_Resume.pdf)
 ---
 
 ## 📚 Table of Contents
