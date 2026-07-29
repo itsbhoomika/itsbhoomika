@@ -53,19 +53,15 @@ A normalized **MySQL** database for personal finance: accounts, transactions, bu
 
 ### Synchrony Financial — *Data Scientist, Customer Analytics & Credit Risk* (May 2025 – May 2026)
 
-Replaced an external consultancy's **NPS model** with an internally built solution whose findings were **adopted by customer-analytics leadership to redesign survey structure**. Modeled NPS drivers with **XGBoost** and **Lasso** in parallel (imputing 100K+ missing values), validated causal robustness via **Placebo Refutation Testing**, and migrated legacy SAS/SQL to Python (**100M+ records, 87% faster**). In Credit Risk, built **PD/EAD models** across 6 portfolios informing a **$7.49B CECL loss reserve**, with **PySpark ETL on 900M+ records** (92% faster).
-
 ### Business Intelligence Group (BIG) — *Data Consultant* (Jan 2025 – May 2025)
-
-Designed an NLP decision-support system (**RAG chatbot + topic modeling**) with **Power BI dashboards** automating resource allocation and overtime planning — a **90% reduction in pilot lookup time**.
 
 ### University of Illinois Urbana-Champaign — *Research Assistant, AI Engineer* (Jan 2025 – May 2026)
 
-Built an LLM pipeline structuring **100,000 clinical-trial studies** into analytical features and benchmarked predictors with Lasso logistic regression and feature-importance analysis.
+### Technology Entrepreneur Center — *Peer Entrepreneur Advisor* (Jan 2025 – May 2025)
+
+### Bhumi NGO — *Technical Consultant* (Dec 2022 – Dec 2023)
 
 ### Repute India Pvt. Ltd. — *Data Analyst* (Feb 2023 – Apr 2023)
-
-Automated financial & operational **KPI dashboards** (SQL Server, Excel), cutting reporting cycle time **30%**, and surfaced **~30% cost inefficiencies** through reconciliations across cost, production, and financial data.
 
 ---
 ## 📄 Research Reports & Writing
