@@ -28,7 +28,7 @@ Research at the **UIUC Statistics Department** on whether LLMs can automatically
 ---
 ## 🛠️ Projects
 
-### [Agentic Pipeline Optimizer](pipeline-optimizer/blob/main/README.md](https://github.com/itsbhoomika/pipeline-optimizer/blob/main/README.md)
+### [Agentic Pipeline Optimizer](https://github.com/itsbhoomika/pipeline-optimizer/blob/main/README.md)
 
 On a real data platform, one badly-written transform silently burns time and money on every scheduled run. Finding it means reading DAG metadata; fixing it means rewriting SQL and proving the rewrite still returns the same data. This project automates that loop with three cooperating agents and a local LLM.
 
