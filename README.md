@@ -28,9 +28,9 @@ Research at the **UIUC Statistics Department** on whether LLMs can automatically
 ---
 ## 🛠️ Projects
 
-### [Real-Time Data Quality & Monitoring Pipeline](data/Projects/Real-Time-Data-Quality-Monitoring/README.md)
+### [pipeline-optimizer/blob/main/README.md)
 
-Real-time data engineering pipeline using **Apache Kafka, Snowflake, dbt, and Streamlit** to ingest application events, validate schemas, and monitor ingestion-to-warehouse latency. Implemented **dbt tests**, anomaly detection rules, and monitoring dashboards to flag **schema drift, data quality failures, and pipeline delays** in real time.
+On a real data platform, one badly-written transform silently burns time and money on every scheduled run. Finding it means reading DAG metadata; fixing it means rewriting SQL and proving the rewrite still returns the same data. This project automates that loop with three cooperating agents and a local LLM.
 
 ### [AI-Driven M&A Prediction](data/Projects/AI-MA-Prediction/README.md)
 
