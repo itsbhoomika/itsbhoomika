@@ -51,17 +51,17 @@ A normalized **MySQL** database for personal finance: accounts, transactions, bu
 ---
 ## 💼 Professional Experience
 
-### Synchrony Financial — *Data Scientist, Customer Analytics & Credit Risk* (May 2025 – May 2026)
+### Synchrony Financial — (May 2025 – May 2026)
 
-### Business Intelligence Group (BIG) — *Data Consultant* (Jan 2025 – May 2025)
+### Business Intelligence Group (BIG) —(Jan 2025 – May 2025)
 
-### University of Illinois Urbana-Champaign — *Research Assistant, AI Engineer* (Jan 2025 – Present)
+### University of Illinois Urbana-Champaign — (Jan 2025 – Present)
 
-### Technology Entrepreneur Center — *Peer Entrepreneur Advisor* (Jan 2025 – May 2025)
+### Technology Entrepreneur Center — (Jan 2025 – May 2025)
 
-### Bhumi NGO — *Technical Consultant* (Dec 2022 – Dec 2023)
+### Bhumi NGO — (Dec 2022 – Dec 2023)
 
-### Repute India Pvt. Ltd. — *Data Analyst* (Feb 2023 – Apr 2023)
+### Repute India Pvt. Ltd. — (Feb 2023 – Apr 2023)
 
 ---
 ## 📄 Research Reports & Writing
