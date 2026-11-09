@@ -1,84 +1,85 @@
-<h1 align="center">BHOOMIKA RAVISHANKAR</h1>
-<p align="center">
-2+ years of experience · Data Engineering · AI/ML · Data Science & Analytics · Python · SQL · Cloud & Distributed Systems
-</p>
+# Hi, I'm Bhoomika 👋
 
-Hi! I'm a data & AI professional with 2+ years of experience building scalable data pipelines, machine learning solutions, and intelligent applications. My work spans data engineering, backend software development, and generative AI, with experience in Python, SQL, Spark, cloud platforms, and LLM-powered systems. I enjoy solving complex engineering problems by building reliable, production-ready software that turns data into impactful products.
----
----
+I'm a graduate in Information Management from the University of Illinois Urbana-Champaign, focused on building practical AI systems across large language models, machine learning, and large-scale data.
 
-## 📚 Table of Contents
-- [Research Experience](#-research-experience)
-- [Projects](#-projects)
-- [Professional Experience](#-professional-experience)
-- [Research Reports & Writing](#-research-reports--writing)
-- [Contact](#-contact)
+I enjoy turning ambiguous problems and complex data into useful, trustworthy solutions—from analyzing 900M-row financial datasets at Synchrony to building LLM research pipelines at UIUC.
 
----
-## 🔬 Research Experience
+## What I'm Working On
 
-### [Facet Generation for Question Disambiguation — Clarification-Seeking LLMs](data/Research/Clarification-Seeking-LLMs/README.md)
+- Researching LLM-assisted predictive modeling at the **UIUC Department of Statistics**, including a feedback loop that converts clinical-trial narratives into structured, model-ready features.
+- Building applied AI projects in **agentic data systems, language-model evaluation, retrieval, and document intelligence**.
 
-Research on systems where LLMs identify ambiguity in questions and generate high-quality **facets** that explain disambiguation QA pairs. Built a three-stage pipeline — data preparation with backwards filtering, supervised fine-tuning, and **Direct Preference Optimization (DPO)** — using **Qwen 2.5 7B** for facet generation and **Gemini** as an evaluation judge, scored across six quality metrics. *(CS546, UIUC)*
+## Core Interests
 
-### [Predictive Modeling for Clinical Trials with an LLM Feedback Loop](data/Research/LLM-Healthcare-ClinicalTrials/README.md)
+- Large Language Models and Evaluation
+- Retrieval-Augmented Generation and Document Intelligence
+- Agentic AI and Data Systems
+- Applied Machine Learning and Causal Analysis
+- Model Interpretability and Trustworthy AI
 
-Research at the **UIUC Statistics Department** on whether LLMs can automatically extract structured attributes from clinical-trial narratives and convert them into predictive features. Built an end-to-end pipeline over **115K+ ClinicalTrials.gov cancer studies**, predicting trial completion vs. termination; LLM-derived features accounted for **97.2% of feature importance** in a Lasso logistic benchmark, with iterative prompt refinement guided by model feedback.
+## Featured Projects
 
----
-## 🛠️ Projects
+### [Clarification-Seeking LLMs](https://github.com/itsbhoomika/Clarification-Seeking-LLMs-CS546)
 
-### [Agentic Pipeline Optimizer](https://github.com/itsbhoomika/pipeline-optimizer/blob/main/README.md)
+Fine-tuned **Qwen 2.5 7B** to identify ambiguity and generate context-aware clarification facets. Built a three-stage research pipeline spanning backward-filtered data preparation, supervised fine-tuning, **Direct Preference Optimization**, and LLM-as-a-judge evaluation across six quality dimensions.
 
-On a real data platform, one badly-written transform silently burns time and money on every scheduled run. Finding it means reading DAG metadata; fixing it means rewriting SQL and proving the rewrite still returns the same data. This project automates that loop with three cooperating agents and a local LLM.
-
-### [AI-Driven M&A Prediction](data/Projects/AI-MA-Prediction/README.md)
-
-Predictive analytics system combining **14 structured financial ratios** with **298K+ unstructured market-news headlines** (TF-IDF, Word2Vec, FinBERT sentiment) and an **XGBoost** classifier — reaching **~89–93% accuracy** and **2.4× F1**, demonstrating an investment-banking-style decision use case.
-
-### [LSTM Credit Spend Forecasting — UIUC × Synchrony Datathon](data/Projects/LSTM-Credit-Forecasting/README.md)
-
-Sequence model (**LSTM**) forecasting **Q4 2025 spend across 14,099 accounts** at **~$2,444 MAE**, translating forecasts into credit-line recommendations for **288 high-value accounts** (~2% of the segment).
-
-### [Contract Pricing Intelligence](data/Projects/Contract-Pricing-Intelligence/README.md)
-
-A **Django + DRF** application that parses raw contract text into structured pricing fields, exposes full CRUD workflows and a REST API, runs contract-level analytics (total value, recurring revenue, discounts), and integrates **AWS S3** for document storage.
-
-### [ClearLedger — SQL Personal Finance Management System](data/Projects/ClearLedger-Finance-DB/README.md)
-
-A normalized **MySQL** database for personal finance: accounts, transactions, budgets, and savings goals — delivering **7 analytical reports** (budget-vs-actual variance, net-worth, spending trends) and **11 CRUD operations**, cutting manual monthly reporting from **~4 hrs to under 30 seconds**.
+**Tech:** Python, PyTorch, Hugging Face, SFT, DPO, Gemini evaluation
 
 ---
-## 💼 Professional Experience
 
-### Synchrony Financial — (May 2025 – May 2026)
+### [Agentic Pipeline Optimizer](https://github.com/itsbhoomika/pipeline-optimizer)
 
-### Business Intelligence Group (BIG) —(Jan 2025 – May 2025)
+Built a local multi-agent system that investigates simulated data-pipeline failures, identifies task-latency bottlenecks, rewrites inefficient transformations, and validates proposed fixes using pipeline metadata and prior incident memory.
 
-### University of Illinois Urbana-Champaign — (Jan 2025 – Present)
-
-### Technology Entrepreneur Center — (Jan 2025 – May 2025)
-
-### Bhumi NGO — (Dec 2022 – Dec 2023)
-
-### Repute India Pvt. Ltd. — (Feb 2023 – Apr 2023)
+**Tech:** LangChain, Ollama, Airflow, BigQuery, dbt, Python
 
 ---
-## 📄 Research Reports & Writing
 
-### [Facet Generation for Question Disambiguation — Final Report](data/Research/Clarification-Seeking-LLMs/CS546_Final_Report-Bhoomika-2%20(1).pdf)
-CS546 research report on improving facet generation in question-disambiguation systems with LLMs.
+### [Clinical-Trial Prediction with an LLM Feedback Loop](data/Research/LLM-Healthcare-ClinicalTrials/README.md)
 
-### [Predictive Modeling for Text-Rich Data Using an LLM Feedback Loop](data/Research/LLM-Healthcare-ClinicalTrials/Predictive%20Modeling-Bhoomika-Ravishankar.pdf)
-Write-up of the clinical-trials LLM feature-extraction and predictive-modeling pipeline (UIUC Statistics Dept).
+Developed an end-to-end research pipeline over **115K+ ClinicalTrials.gov cancer studies**. Used LLMs to extract structured attributes from narrative data, trained predictive models for trial outcomes, and iteratively refined prompts using model feedback; LLM-derived features represented **97.2% of feature importance** in a Lasso logistic benchmark.
 
----
-## 📞 Contact
-I'd love to hear from you — feel free to reach out for questions or collaboration opportunities.
-
-- **Email**: [itsbhoomika.r@gmail.com](mailto:itsbhoomika.r@gmail.com)
-- **LinkedIn**: [Bhoomika Ravishankar](https://www.linkedin.com/in/bhoomikaravishankar)
-- **GitHub**: [itsbhoomika](https://github.com/itsbhoomika)
-- **Portfolio**: [itsbhoomika.github.io](https://itsbhoomika.github.io)
+**Tech:** Python, LLM prompting, Lasso regression, feature engineering, ClinicalTrials.gov data
 
 ---
+
+### [AI-Driven M&A Prediction](https://github.com/itsbhoomika/AI-MA-Prediction-UIUC)
+
+Combined **14 structured financial ratios** with **298K+ market-news headlines** in a multimodal modeling pipeline. Applied entity extraction, text embeddings, financial sentiment, class balancing, and XGBoost to support M&A analysis.
+
+**Tech:** FinBERT, Word2Vec, XGBoost, NLP, financial data
+
+---
+
+### [Real-Time Data Quality Pipeline](https://github.com/itsbhoomika/rt-dq-pipeline)
+
+Created a streaming data-quality prototype that sends synthetic order events into Snowflake, tests transformation quality with dbt, and presents live health metrics and alerts through an interactive dashboard.
+
+**Tech:** Redpanda, Snowflake, dbt, Streamlit, Docker
+
+## Experience Highlights
+
+- **UIUC Department of Statistics** — Research Data Scientist
+- **Synchrony Financial** — Data Science Intern
+- **UIUC Business Intelligence Group** — Lead Data Consultant
+- **Technology Entrepreneur Center, UIUC** — Workshop Co-Lead
+- **Repute Engineers** — Data Analytics Intern
+
+## Tech Stack
+
+**Languages & Data:** Python, SQL, R, SAS, PySpark, Pandas
+
+**Machine Learning:** PyTorch, scikit-learn, XGBoost, Lasso, LSTM, SHAP, causal inference, feature engineering, model validation
+
+**Generative AI & NLP:** LangChain, RAG, embeddings, LLM fine-tuning, LLM evaluation, Hugging Face, FinBERT
+
+**Cloud & Data Systems:** AWS, Snowflake, BigQuery, Airflow, dbt, Docker, Streamlit
+
+## Let's Connect
+
+- **LinkedIn:** [linkedin.com/in/bhoomikaravishankar](https://www.linkedin.com/in/bhoomikaravishankar/)
+- **GitHub:** [github.com/itsbhoomika](https://github.com/itsbhoomika)
+- **Portfolio:** [itsbhoomika.github.io](https://itsbhoomika.github.io/)
+- **Email:** [itsbhoomika.r@gmail.com](mailto:itsbhoomika.r@gmail.com)
+
+If you're working on applied AI, machine learning, or data-intensive products, I'd love to connect.
