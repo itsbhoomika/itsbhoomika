@@ -52,10 +52,10 @@ Created a streaming data-quality prototype that sends synthetic order events int
 ## Experience Highlights
 
 - **UIUC Department of Statistics** — Research Data Scientist
-- **Synchrony Financial** — Data Science Intern
+- **Synchrony Financial** — Data Scientist
 - **UIUC Business Intelligence Group** — Lead Data Consultant
 - **Technology Entrepreneur Center, UIUC** — Workshop Co-Lead
-- **Repute Engineers** — Data Analytics Intern
+- **Repute Engineers** — Data Analyst
 
 ## Tech Stack
 
