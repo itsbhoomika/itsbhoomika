@@ -4,7 +4,7 @@ I'm a graduate in Information Management from the University of Illinois Urbana-
 
 I enjoy turning ambiguous problems and complex data into useful, trustworthy solutions—from analyzing 900M-row financial datasets at Synchrony to building LLM research pipelines at UIUC.
 
-## What I'm Working On
+## My Work
 
 - Researching LLM-assisted predictive modeling at the **UIUC Department of Statistics**, including a feedback loop that converts clinical-trial narratives into structured, model-ready features.
 - Building applied AI projects in **agentic data systems, language-model evaluation, retrieval, and document intelligence**.
