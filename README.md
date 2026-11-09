@@ -43,14 +43,6 @@ Developed an end-to-end research pipeline over **115K+ ClinicalTrials.gov cancer
 
 ---
 
-### [AI-Driven M&A Prediction](https://github.com/itsbhoomika/AI-MA-Prediction-UIUC)
-
-Combined **14 structured financial ratios** with **298K+ market-news headlines** in a multimodal modeling pipeline. Applied entity extraction, text embeddings, financial sentiment, class balancing, and XGBoost to support M&A analysis.
-
-**Tech:** FinBERT, Word2Vec, XGBoost, NLP, financial data
-
----
-
 ### [Real-Time Data Quality Pipeline](https://github.com/itsbhoomika/rt-dq-pipeline)
 
 Created a streaming data-quality prototype that sends synthetic order events into Snowflake, tests transformation quality with dbt, and presents live health metrics and alerts through an interactive dashboard.
