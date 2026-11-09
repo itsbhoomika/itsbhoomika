@@ -59,13 +59,17 @@ Created a streaming data-quality prototype that sends synthetic order events int
 
 ## Tech Stack
 
-**Languages & Data:** Python, SQL, R, SAS, PySpark, Pandas
+**Programming Languages:** Python, SQL, R, SAS, Java, JavaScript, HTML, CSS, Bash
 
-**Machine Learning:** PyTorch, scikit-learn, XGBoost, Lasso, LSTM, SHAP, causal inference, feature engineering, model validation
+**Machine Learning & AI:** PyTorch, TensorFlow/Keras, scikit-learn, XGBoost, Transformers, LLMs, RAG, LangChain, NLP, LSTM, SHAP, causal inference
 
-**Generative AI & NLP:** LangChain, RAG, embeddings, LLM fine-tuning, LLM evaluation, Hugging Face, FinBERT
+**Data Engineering & Analytics:** PySpark, Pandas, NumPy, Airflow, dbt, Redpanda, Snowflake, BigQuery, Power BI, Tableau
 
-**Cloud & Data Systems:** AWS, Snowflake, BigQuery, Airflow, dbt, Docker, Streamlit
+**Tools & Frameworks:** Node.js, Django, Django REST Framework, Streamlit, Git/GitHub, Docker, Jupyter
+
+**Cloud & Databases:** AWS, Amazon S3, AWS Lambda, PostgreSQL, MySQL, SQL Server, MongoDB
+
+**Specializations:** Agentic AI, LLM fine-tuning and evaluation, document intelligence, information retrieval, feature engineering, model validation, predictive modeling, model interpretability, data visualization
 
 ## Let's Connect
 
